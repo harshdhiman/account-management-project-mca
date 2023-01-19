@@ -1,6 +1,6 @@
 # Simple Accounts Management Project (MCA Minor Project)
 
-Live at [Here](to-be-updated)
+Live at [https://accountmanagementprojectmca.web.app/](https://accountmanagementprojectmca.web.app/)
 
 
 
