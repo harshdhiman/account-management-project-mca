@@ -1,4 +1,17 @@
-# accountman
+# Simple Accounts Management Project (MCA Minor Project)
+
+Live at [Here](to-be-updated)
 
 
-Site at [Here](https://accounting-management-31bf6.web.app/)
+
+
+## Tech used
+
+ - React
+ - Vite - Bundler
+ - Firebase (for Backend/Database)
+ - React Query (for API Caches)
+ - Jotai (for State Management)
+ - Typescript
+ 
+ 
