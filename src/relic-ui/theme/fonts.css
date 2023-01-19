@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "relic";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./../assets/fonts/mai.otf) format("opentype");
+}
+@font-face {
+  font-family: "gs";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./../assets/fonts/gs.ttf);
+}
+@font-face {
+  font-family: "gs";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+
+  src: url(./../assets/fonts/gs_i.ttf);
+}
+@font-face {
+  font-family: "gs";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./../assets/fonts/gs_bold.ttf);
+}
+@font-face {
+  font-family: "gs";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./../assets/fonts/gs_boldi.ttf);
+}
+@font-face {
+  font-family: "gs";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./../assets/fonts/gs_m.ttf);
+}
+@font-face {
+  font-family: "gs";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 500;
+  src: url(./../assets/fonts/gs_mi.ttf);
+}
